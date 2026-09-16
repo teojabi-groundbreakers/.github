@@ -16,10 +16,10 @@
 
 | 구성원 | 역할 |
 |---|---|
-| 오은택 | 팀장, 풀스택 개발 |
-| 정주원 | 백엔드 개발 |
-| 김준서 | 백엔드 개발 |
-| 노영웅 | 인공지능 모델 개발 |
+| 오은택 | Team Leader, Full-stack Developer |
+| 정주원 | Backend Developer |
+| 김준서 | Backend Developer |
+| 노영웅 | Artificial Intelligence Developer |
 
 ## 3. 추진 배경 및 필요성
 
